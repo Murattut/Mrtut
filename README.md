@@ -15,7 +15,7 @@
     <blockquote>
     <br>
     <div align="center">
-        <a href="https://github.com/Murattutheme=transparent" height="165"></a>
+        <a href="https://github.com/Murattut"><img src="https://github-readme-stats.vercel.app/api?username=murattut&show_icons=true&theme=transparent" height="165"></a>
         &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/Murattut"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murattut&layout=compact&show_icons=true&theme=transparent" height="165"></a>
     </div>
