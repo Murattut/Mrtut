@@ -33,6 +33,7 @@
             <a href="https://github.com/Murattut"><img alt="Python" src="https://img.shields.io/badge/-Python-000?logo=python"></a>
 		    <a href="https://github.com/Murattut"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/-Java-000?logo=java&logoColor=1572B6z"></a>
 		    <a href="https://github.com/Murattut"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/-SQL-000?logo=database&logoColor=276DC3"></a>
+		    <a href="https://github.com/Murattut"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/-C-000?logo=c&logoColor=276DC3"></a>
                 </div>
             </blockquote>
         </details>
@@ -41,11 +42,12 @@
             <blockquote>
                 <div align="left">
 		    <a href="https://github.com/Murattut"><img alt="Keras" src="https://img.shields.io/badge/-Keras-000?logo=Keras&logoColor=f73636"></a>
+		    <a href="https://github.com/Murattut"><img alt="TensorFlow" src ="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow"></a>
 		    <a href="https://github.com/Murattut"><img alt="NumPy" src="https://img.shields.io/badge/-Numpy-000?logo=numpy&logoColor=013243"></a>
 		    <a href="https://github.com/Murattut"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-000?logo=pandas"></a>
-		    <a href="https://github.com/Murattut"><img alt="Scikit-learn" src="https://img.shields.io/badge/-scikit%20learn-000?logo=scikitlearn"></a>
 		    <a href="https://github.com/Murattut"><img alt="SciPy" src="https://img.shields.io/badge/-Scipy-000?logo=scipy&logoColor=8CAAE6"></a>
-		    <a href="https://github.com/Murattut"><img alt="TensorFlow" src ="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow"></a>
+      		    <a href="https://github.com/Murattut"><img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-000?logo=pytorch&logoColor=8CAAE6"></a>
+	            <a href="https://github.com/Murattut"><img alt="Scikit-learn" src="https://img.shields.io/badge/-scikit%20learn-000?logo=scikitlearn"></a>
                 </div>
             </blockquote>
         </details>
