@@ -1,4 +1,4 @@
-<img align="right" src = "[https://user-images.githubusercontent.com/44964158/153930915-52f6df1b-ed4d-4d83-8ed1-a32f32fd8032.png](https://avatars.githubusercontent.com/u/117284953?s=400&u=4c2de49e724e8d008ccf5ff4456498d65cabc964&v=4)" width = 200 height=200>
+<img align="right" src = "https://user-images.githubusercontent.com/44964158/153930915-52f6df1b-ed4d-4d83-8ed1-a32f32fd8032.png" width = 200 height=200>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Murat+Tut" alt="Typing SVG" /></a>
